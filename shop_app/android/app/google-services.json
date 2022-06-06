@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178984428049",
+    "project_id": "redt-350420",
+    "firebase_url": "https://redt-350420-default-rtdb.firebaseio.com/",
+    "storage_bucket": "redt-350420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178984428049:android:fc6d8b9038af7d17a887b0",
+        "android_client_info": {
+          "package_name": "com.example.red_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178984428049-7fh0bvlqqa38sbuifqjaaqgmrsgeud49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.red_app",
+            "certificate_hash": "69b857fb3d968a828b9e00989dd112fe9ff77648"
+          }
+        },
+        {
+          "client_id": "178984428049-jnbt7u7ts1jjprlf0n4lajgebtof7k3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt1gcEG4Qynmq0HTCZxUTK8-szlXlZGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178984428049-jnbt7u7ts1jjprlf0n4lajgebtof7k3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
